@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # What is the worth of your education?
 Tony Paek  
 March 22, 2015  
