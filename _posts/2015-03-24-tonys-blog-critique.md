@@ -13,7 +13,7 @@ The graph critique is based on the Economist's article titled *[It depends on wh
 1. what people studied affects the future earnings of graduates
 2. where people study does not affect the future earnings of graduates
 
-<img src="http://cdn.static-economist.com/sites/default/files/imagecache/original-size/images/print-edition/20150314_USC467_0.png" alt="Drawing" style="width: 500px;"/>
+<img src="http://cdn.static-economist.com/sites/default/files/imagecache/original-size/images/print-edition/20150314_USC467_0.png" alt="Drawing" style="width: 700px;"/>
 
 ## Graph Critique
 
